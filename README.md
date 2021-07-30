@@ -1,2 +1,6 @@
 # rabbit-holes
-rabbit holes, both explored and unexplored...
+
+## Unexplored
+* [YDKJS - You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+
+## Explored
