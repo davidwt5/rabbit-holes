@@ -5,4 +5,7 @@
 * [Pitfalls of using objects as maps](https://2ality.com/2012/01/objects-as-maps.html)
 * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+# Exploring
+* [99 Bottles of OOP](https://sandimetz.com/99bottles)
+
 # Explored
